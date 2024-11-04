@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emakoonu.github.io/OZF/sitemap_index.txt
+Sitemap: https://emakoonu.github.io/gnr/sitemap_index.txt
+Sitemap: https://emakoonu.github.io/jVh/sitemap_index.txt
+Sitemap: https://emakoonu.github.io/oIA/sitemap_index.txt
